@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4478D712-9D35-4E29-BC88-36D26D779E60}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserInterface</RootNamespace>
+    <AssemblyName>Student Information System UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWindows.Designer.cs">
+      <DependentUpon>AddWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteWindows.Designer.cs">
+      <DependentUpon>DeleteWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditWindows.Designer.cs">
+      <DependentUpon>EditWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeWindows.Designer.cs">
+      <DependentUpon>HomeWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchWindows.Designer.cs">
+      <DependentUpon>SearchWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_allWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_allWindows.Designer.cs">
+      <DependentUpon>Show_allWindows.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddWindows.resx">
+      <DependentUpon>AddWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteWindows.resx">
+      <DependentUpon>DeleteWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditWindows.resx">
+      <DependentUpon>EditWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeWindows.resx">
+      <DependentUpon>HomeWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchWindows.resx">
+      <DependentUpon>SearchWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_allWindows.resx">
+      <DependentUpon>Show_allWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_student_info_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_add_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_delete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_file_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_file_edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_search_icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_show_all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_Add-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_delete2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_delete_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_file_edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_edit_notes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_search_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tulips.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Penguins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BO\BO.csproj">
+      <Project>{E082BAF0-8F05-4449-8C57-C20F2204D785}</Project>
+      <Name>BO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

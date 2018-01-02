@@ -1,0 +1,50 @@
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\BO.dll
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\DAL.dll
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\BO.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\DAL.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.write.1.tlog
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.exe
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.DeleteWindows.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.EditWindows.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.HomeWindows.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.SearchWindows.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Show_allWindows.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Add_Windows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Add_Windows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.DeleteWindows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.EditWindows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.HomeWindows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.SearchWindows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Show_allWindows.resources
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.write.1.tlog
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Advance Programming Laboratory\Student_Informain_2\UserInterface\bin\Debug\Student Information System UI.exe.config
+D:\Advance Programming Laboratory\Student_Informain_2\Student Information System UI\bin\Debug\Student Information System UI.exe.config
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.Add_Windows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.DeleteWindows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.EditWindows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.HomeWindows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.SearchWindows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\UserInterface.Show_allWindows.resources
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\Student Information System UI.exe.config
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\Student Information System UI.exe
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\Student Information System UI.pdb
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\BO.dll
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\DAL.dll
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\BO.pdb
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\bin\Debug\DAL.pdb
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\Student Information System UI.exe
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\Student Information System UI.pdb
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\Student Information System UI.csprojResolveAssemblyReference.cache
+D:\Advance Programming Laboratory\Student Information System\Student Information System UI\obj\Debug\Student Information System UI.csproj.GenerateResource.Cache

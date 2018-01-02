@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{E082BAF0-8F05-4449-8C57-C20F2204D785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{14E69783-2318-4061-88BE-AAF3CB10D707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Information System UI", "Student Information System UI\Student Information System UI.csproj", "{4478D712-9D35-4E29-BC88-36D26D779E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E082BAF0-8F05-4449-8C57-C20F2204D785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E082BAF0-8F05-4449-8C57-C20F2204D785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E082BAF0-8F05-4449-8C57-C20F2204D785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E082BAF0-8F05-4449-8C57-C20F2204D785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E69783-2318-4061-88BE-AAF3CB10D707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E69783-2318-4061-88BE-AAF3CB10D707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E69783-2318-4061-88BE-AAF3CB10D707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E69783-2318-4061-88BE-AAF3CB10D707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4478D712-9D35-4E29-BC88-36D26D779E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4478D712-9D35-4E29-BC88-36D26D779E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4478D712-9D35-4E29-BC88-36D26D779E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4478D712-9D35-4E29-BC88-36D26D779E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

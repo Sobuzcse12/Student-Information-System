@@ -1,0 +1,21 @@
+D:\C#  My Code\Student Information System\BO\bin\Debug\BO.dll
+D:\C#  My Code\Student Information System\BO\bin\Debug\BO.pdb
+D:\C#  My Code\Student Information System\BO\bin\Debug\DAL.dll
+D:\C#  My Code\Student Information System\BO\bin\Debug\DAL.pdb
+D:\C#  My Code\Student Information System\BO\obj\Debug\ResolveAssemblyReference.cache
+D:\C#  My Code\Student Information System\BO\obj\Debug\BO.dll
+D:\C#  My Code\Student Information System\BO\obj\Debug\BO.pdb
+I:\ \Student Information System\BO\bin\Debug\BO.dll
+I:\ \Student Information System\BO\bin\Debug\BO.pdb
+I:\ \Student Information System\BO\bin\Debug\DAL.dll
+I:\ \Student Information System\BO\bin\Debug\DAL.pdb
+I:\ \Student Information System\BO\obj\Debug\ResolveAssemblyReference.cache
+I:\ \Student Information System\BO\obj\Debug\BO.dll
+I:\ \Student Information System\BO\obj\Debug\BO.pdb
+D:\Advance Programming Laboratory\Student Information System\BO\bin\Debug\BO.dll
+D:\Advance Programming Laboratory\Student Information System\BO\bin\Debug\BO.pdb
+D:\Advance Programming Laboratory\Student Information System\BO\bin\Debug\DAL.dll
+D:\Advance Programming Laboratory\Student Information System\BO\bin\Debug\DAL.pdb
+D:\Advance Programming Laboratory\Student Information System\BO\obj\Debug\BO.dll
+D:\Advance Programming Laboratory\Student Information System\BO\obj\Debug\BO.pdb
+D:\Advance Programming Laboratory\Student Information System\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache

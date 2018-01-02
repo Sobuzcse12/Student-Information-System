@@ -1,0 +1,56 @@
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe.config
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\UserInterface.pdb
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.exe
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.pdb
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.AddInfoGUI.resources
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.HomeGUI.resources
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.DeleteGUI.resources
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.EditGUI.resources
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.SearchGUI.resources
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\BO.dll
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\DAL.dll
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\BO.pdb
+G:\C# workspace\Student_Informain_2\UserInterface\bin\Debug\DAL.pdb
+G:\C# workspace\Student_Informain_2\UserInterface\obj\Debug\UserInterface.ShowAll.resources
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe.config
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.exe
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.pdb
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\UserInterface.pdb
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\BO.dll
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\DAL.dll
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\BO.pdb
+E:\Abbir\Student_Informain_2\UserInterface\bin\Debug\DAL.pdb
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.AddInfoGUI.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.DeleteGUI.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.EditGUI.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.HomeGUI.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.SearchGUI.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\UserInterface.ShowAll.resources
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+E:\Abbir\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.write.1.tlog
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.exe
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.exe
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\UserInterface.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\BO.dll
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\DAL.dll
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\BO.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\bin\Debug\DAL.pdb
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.AddInfoGUI.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.DeleteGUI.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.EditGUI.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.HomeGUI.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.SearchGUI.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\UserInterface.ShowAll.resources
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.read.1.tlog
+D:\Advance programming language\Student_Informain_2\UserInterface\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,7 @@
+D:\C#  My Code\Student Information System\BO\bin\Release\BO.dll
+D:\C#  My Code\Student Information System\BO\bin\Release\BO.pdb
+D:\C#  My Code\Student Information System\BO\bin\Release\DAL.dll
+D:\C#  My Code\Student Information System\BO\bin\Release\DAL.pdb
+D:\C#  My Code\Student Information System\BO\obj\Release\ResolveAssemblyReference.cache
+D:\C#  My Code\Student Information System\BO\obj\Release\BO.dll
+D:\C#  My Code\Student Information System\BO\obj\Release\BO.pdb

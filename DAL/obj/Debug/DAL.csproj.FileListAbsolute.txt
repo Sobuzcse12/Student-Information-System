@@ -1,0 +1,15 @@
+D:\C#  My Code\Student Information System\DAL\bin\Debug\DAL.dll
+D:\C#  My Code\Student Information System\DAL\bin\Debug\DAL.pdb
+D:\C#  My Code\Student Information System\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\C#  My Code\Student Information System\DAL\obj\Debug\DAL.dll
+D:\C#  My Code\Student Information System\DAL\obj\Debug\DAL.pdb
+I:\ \Student Information System\DAL\bin\Debug\DAL.dll
+I:\ \Student Information System\DAL\bin\Debug\DAL.pdb
+I:\ \Student Information System\DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\ \Student Information System\DAL\obj\Debug\DAL.dll
+I:\ \Student Information System\DAL\obj\Debug\DAL.pdb
+D:\Advance Programming Laboratory\Student Information System\DAL\bin\Debug\DAL.dll
+D:\Advance Programming Laboratory\Student Information System\DAL\bin\Debug\DAL.pdb
+D:\Advance Programming Laboratory\Student Information System\DAL\obj\Debug\DAL.dll
+D:\Advance Programming Laboratory\Student Information System\DAL\obj\Debug\DAL.pdb
+D:\Advance Programming Laboratory\Student Information System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
